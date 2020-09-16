@@ -1,0 +1,42 @@
+*{
+    
+    color: whitesmoke;
+}
+
+body{
+    background-color: rgb(27, 52,93);
+}
+
+#header{
+    background-color: red;
+}
+.title{
+    font-size: xx-large;
+}
+#nav{
+    background-color: teal;
+    width: 180px;
+    height:235px;
+    display: inline-block;
+}
+
+#main{
+    background-color: darkblue;
+    display: inline-block;
+    vertical-align: top;
+    width: 830px;
+    margin-left: 40px;
+}
+a {
+    color: lightseagreen;
+}
+#footer{
+    background-color: grey;
+    width: 1050px;
+    height: 50px;
+    text-align: justify;
+}
+.dot{
+    list-style: none;
+}
+
